@@ -224,4 +224,4 @@ Dashlane is available as a full free version with all features and updates inclu
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-10 08:03:13 UTC
+**Last updated:** 2026-10-10 15:00:39 UTC
